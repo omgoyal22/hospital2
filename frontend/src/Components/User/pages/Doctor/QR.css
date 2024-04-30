@@ -1,0 +1,24 @@
+.qr-container {
+    text-align: center;
+  }
+  
+  .qr-image {
+    width: 500px; /* Adjust as needed */
+    height: 500px; /* Adjust as needed */
+    margin: 20px; /* Adjust as needed */
+  }
+  
+  .pay-now-button {
+    padding: 10px 20px;
+    background-color: #007bff; /* Adjust color as needed */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .pay-now-button:hover {
+    background-color: #0056b3; /* Adjust hover color as needed */
+  }
+  
